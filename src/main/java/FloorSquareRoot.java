@@ -1,4 +1,3 @@
-package Samples;
 
 public class FloorSquareRoot {
     public static int floorSqrt(int x) {
